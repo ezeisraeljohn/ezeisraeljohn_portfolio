@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://ezeisraeljohn.me/sitemap.xml
